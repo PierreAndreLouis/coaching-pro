@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 export default function Product({ grid }) {
     return (
         <div className='mx-4 pb-10'>
-            <div className={`md:grid ${grid ? 'md:grid-cols-2 my-20' : ""} bg-sky-50 dark:bg-gray-800 py-16 px-4 max-w-5xl mx-auto rounded-md overflow-hidden shadow-md`}>
+            <div className={`md:grid ${grid ? 'md:grid-cols-2 my-20' : ""} gap-6 bg-sky-50 dark:bg-gray-800 py-16 px-4 max-w-5xl mx-auto rounded-md overflow-hidden shadow-md`}>
                 <div className="relative">
                     <img
                         className="w-full max-h-[20rem] h-full object-cover rounded-md"
