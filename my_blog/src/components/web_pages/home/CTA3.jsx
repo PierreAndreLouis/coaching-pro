@@ -17,10 +17,10 @@ const CTA3 = () => {
       </div>
       <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
         <div id="mc_embed_signup" className="relative max-w-2xl sm:mx-auto sm:max-w-xl md:max-w-2xl sm:text-center">
-          <h2 className="mb-6 font-sans text-3xl text-center font-bold tracking-tight text-white dark:text-gray-100 sm:text-4xl sm:leading-none">
+          <h2 className="mb-6 font-sans text-4xl text-center font-bold tracking-tight text-white dark:text-gray-100 sm:text-4xl sm:leading-none">
             Rejoignez Notre Communauté de Coaching
           </h2>
-          <p className="mb-6 text-base text-indigo-200 dark:text-indigo-300 md:text-lg">
+          <p className="mb-6 text-base text-indigo-200 dark:text-indigo-300 md:text-lg text-center">
             Inscrivez-vous à notre newsletter pour recevoir des conseils personnalisés, des mises à jour sur nos programmes de coaching, et des astuces pour atteindre vos objectifs plus rapidement.
           </p>
           <form
@@ -49,7 +49,7 @@ const CTA3 = () => {
               S'abonner
             </button>
           </form>
-          <p className="max-w-md mb-10 text-xs tracking-wide text-indigo-100 dark:text-indigo-200 sm:text-sm sm:mx-auto md:mb-16">
+          <p className="max-w-md mb-10 text-center text-xs tracking-wide text-indigo-100 dark:text-indigo-200 sm:text-sm sm:mx-auto md:mb-16">
             Recevez nos meilleurs conseils pour améliorer vos compétences et atteindre vos objectifs professionnels.
           </p>
           <div

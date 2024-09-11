@@ -15,7 +15,7 @@ export default function Product({ grid }) {
                         EN SOLDE
                     </div>
                 </div>
-                <div className="p-6">
+                <div className="pt-6">
                     <h3 className="text-xl md:text-2xl text-gray-800 dark:text-sky-500 font-bold mb-4">
                         Découvrez notre produit le plus populaire !
                     </h3>

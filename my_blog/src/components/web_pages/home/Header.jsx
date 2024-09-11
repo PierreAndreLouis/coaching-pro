@@ -51,9 +51,9 @@ export default function Header() {
     <Navbar className='border-b-2 fixed z-[150] left-0 right-0 top-0'>
       <Link
         to='/'
-        className='self-center whitespace-nowrap text-lg sm:text-2xl font-semibold dark:text-white'
+        className='self-center whitespace-nowrap text-xl sm:text-2xl font-semibold dark:text-white'
       >
-        <span className='px-1 py-1 rounded-lg text-sky-600'>Pedro's</span> Blog
+        <span className='px-1 py-1 rounded-lg text-sky-600'>Coaching</span>
       </Link>
 
       <div className='flex gap-2 md:order-2 items-center'>
